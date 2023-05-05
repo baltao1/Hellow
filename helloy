@@ -1,0 +1,57 @@
+    Forewords :- Do Remember to learn all full forms of short forms.
+       API : Application Program Interface 
+
+   Freshser : Web Application
+              Backend Testing ( API )
+   
+   Testing  : Two Types :- 
+              1) Web Services  --> ~ 30% used in the Industry
+              2) Rest Services --> ~ 70% <  used in the Industry
+
+   API : Technology ( The reason for using API is it can communicate with any St                      ack of Application as it has Universal Functionality . )
+
+              --------  XML  --------
+             | Server |-----| Client |
+             | Java   |-----| .Net   |
+              ________  XML  ________
+
+   XML is Open Standard but it is not light weight in Structure.
+   REST can use both XML & JSON.
+
+   Web Services  : SOAP
+                   use WSDL ( Web Service Description Language ) XML.
+                   Protocal is HTML.  ( http://www.dneonline.com/calculator.asmx?WSDL )
+                   Methods :- ADD, UPDATE, DELETE
+
+   Rest Services : URI ( Unique Resource Identifier ) was similar to URL
+                   Protocol is HTML
+                   Methods :-   HTML
+                                GET: Fetch
+                                POST: Adding Information, Creating SuperClass
+                                PUT: Update any information
+                                Patch: Update any Information
+                                Delete: Delete a record completely. 
+              
+   Tools for API Testing --->
+                              * Cypress API
+                              * Postman
+                              * Rest Assured ( Java ) : API Testing
+
+
+   
+   URI(Uniform Resource Identifier):-
+      Contains three things --> 1) Base URL
+                                2) Resouce (Anything after question mark is resource :::: What are we doing?)
+                                3) Parameters
+
+   R_E_S_T ::-->
+                
+     Method  +  Endpoint    +  Resource  +  Parameters
+      GET    |  google.com  |  /search   |  ?q=Selenium
+
+
+     // GET returns 200 while POST returns 201 on success.
+
+  TRELLO API Key ---> d4825a52fc83f41f5f8a4c2c2fa22553 
+  TRELLO Token   ---> ATTAfc1a89f58239285f257ecb320badbb128065546b6cf7e9e62de7b4bd488bf4c18291F82A
+  
